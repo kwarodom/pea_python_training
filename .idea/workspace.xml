@@ -1,120 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17cd9fa3-d677-40f2-8d6f-1bdc20df4c61" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/00 - Introduction.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/00 - Pretest Python.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/01 - Variable, Operators and Built-in Functions.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/02 - Print Statement, Precision and FieldWidth.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/03 - Lists, Tuples and Sets.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/04 - Strings and Dictionaries.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/05 - Control Flow Statements.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/06 - Functions.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/07 - Classes.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercise1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercise2.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercise3.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/.ipynb_checkpoints/01-Preliminaries-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/.ipynb_checkpoints/02.1-Machine-Learning-Intro-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/.ipynb_checkpoints/02.2-Basic-Principles-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/.ipynb_checkpoints/1-Syntax-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/.ipynb_checkpoints/Machine Learning For Startup #2 Solution-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/.ipynb_checkpoints/Machine Learning For Startup #2-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/.ipynb_checkpoints/Python basics-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/1-Syntax.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/10-Databases/.ipynb_checkpoints/SQLite3-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/10-Databases/10-SQLite3.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/10-Databases/test.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/2-Variables.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/3-Conditions.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/4-Loop.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/.ipynb_checkpoints/5-1 function-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/.ipynb_checkpoints/5-2 Function_arguments-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/.ipynb_checkpoints/5-3 Function-named-arguments-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/.ipynb_checkpoints/5-4 functions-value-return-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/.ipynb_checkpoints/5-5 function-working-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/.ipynb_checkpoints/5-6 Generator-Working-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/5-1 function.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/5-2 Function_arguments.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/5-3 Function-named-arguments.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/5-4 functions-value-return.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/5-5 function-working.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/5-Function/5-6 Generator-Working.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/.ipynb_checkpoints/6-1 Class-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/.ipynb_checkpoints/6-2 Classes-inheritance-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/.ipynb_checkpoints/6-3 Classes-object-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/.ipynb_checkpoints/6-4 Classes-polymorphism-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/6-1 Class.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/6-2 Classes-inheritance.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/6-3 Classes-object.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/6-4 Classes-polymorphism.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/6-Class/6-5 Decorators.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/7-Strings/.ipynb_checkpoints/13 Strings-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/7-Strings/.ipynb_checkpoints/7 Strings-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/7-Strings/7 Strings.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/7-Strings/lines.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/8-Containers/.ipynb_checkpoints/14 Containers-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/8-Containers/.ipynb_checkpoints/8-Containers-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/8-Containers/8-Containers.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/8-Containers/utf8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/8-Containers/utf8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/9-Files.textClipping" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/bigfile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/files-readwrite.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/files-rwbinary.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/files-working.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/files.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/lines.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/new.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/newbigfile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/olives.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/testDeviceDiscover.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/wifidevices.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/9-Files/zigbeedevices.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/Python basics.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/Summary review.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Exercises for Day 1/lines.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/.idea/Ex_Files_CC_Python_01.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/Exercise Files/Problem 1/lpo.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/Exercise Files/Problem 1/lpoWeb.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/Exercise Files/Problem 1/test.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/Exercise Files/lpoApp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/Exercise Files/lpoDB.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/Python Crash Course Exercises01/Exercise Files/lpo_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/bigfile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex010_Containers.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex011_File_IO.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex01_General_Syntax.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex02_Variables_Objects_Values.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex03_Conditionals.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex04_Loops.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex05_Operators.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex06_Exceptions.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex07_Function.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex08_Class.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/ex09_Strings.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/lines.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/.texpadtmp/00.aux" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/.texpadtmp/00.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/.texpadtmp/00.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/.texpadtmp/00.synctex.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/.texpadtmp/00.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/00.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/01.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/02.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/03.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/04.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/05.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/06.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day1/tex/07.tex" afterPath="" />
-    </list>
+    <list default="true" id="17cd9fa3-d677-40f2-8d6f-1bdc20df4c61" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -654,7 +541,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2165" y="23" width="1316" height="1057" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -663,7 +550,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34611288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34717786" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34717786" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21507065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19937205" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />

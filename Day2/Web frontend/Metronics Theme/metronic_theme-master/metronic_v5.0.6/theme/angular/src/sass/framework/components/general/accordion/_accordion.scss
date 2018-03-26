@@ -1,0 +1,213 @@
+//
+//** Default Accordion Component
+//
+
+//== Component Base
+@mixin m-build-component--accordion-default-base() {
+	$m-accordion-border: 6px;
+
+	.m-accordion {		
+		.m-accordion__item {	
+			overflow: hidden;	
+			@include border-radius( $m-accordion-border );
+
+			.m-accordion__item-head {
+				display: table;
+				padding: 1rem 2rem; 
+				width: 100%;			
+				overflow: hidden;	
+
+				.m-accordion__item-icon {
+					display: table-cell;
+					vertical-align: middle;
+					line-height: 0;										
+
+					> i {						 
+						display: inline-block; 
+						font-size: 2rem;
+					}
+				}
+
+				.m-accordion__item-title {
+					display: table-cell;
+					vertical-align: middle;
+					width: 100%;
+					padding-left: 1rem;	
+					font-size: get-font-size(regular, '++');			 													 
+				}
+
+				.m-accordion__item-mode {
+					display: table-cell;
+					vertical-align: middle;														
+
+					> i {						
+						display: inline-block;
+						@include la-icon("\f28e");	
+						font-size: 1.3rem;	
+						vertical-align: middle;										 				 
+					}					
+				}
+
+				&.collapsed {
+					.m-accordion__item-mode {						
+						> i {
+						line-height: 0;			 			 
+
+							&:before {
+						        content: "\f2c2";						        
+						    }
+						}    
+					}
+				}
+
+				&:hover {					 
+					cursor: pointer;
+				}	
+			}
+
+			.m-accordion__item-body {
+				> span {
+					display: inline-block;
+					padding: 2rem;
+				} 
+			}
+
+			&:last-child {
+				margin-bottom: 0;
+			}			
+		}
+
+		//== Default style
+		&.m-accordion--default {
+			.m-accordion__item {					
+				margin-bottom: 1rem;		
+			}	
+		} 
+
+		&.m-accordion--bordered {
+			.m-accordion__item:not(:last-child) {
+				border-bottom: 0;
+			}
+
+			.m-accordion__item:not(:first-child):not(:last-child) {
+				@include border-radius( 0 );
+			}
+
+			.m-accordion__item:last-child {
+				@include border-top-left-radius( 0 );
+				@include border-top-right-radius( 0 );
+			}
+
+			.m-accordion__item:first-child {
+				@include border-bottom-left-radius( 0 );
+				@include border-bottom-right-radius( 0 );
+			}				
+		} 
+	}	 
+}						 
+
+//== Component Skin
+@mixin m-build-component--accordion-default-skin() {
+	$skin: get-default-skin();
+
+	.m-accordion {	
+		//== Default Skin
+		&.m-accordion--bordered,
+		&.m-accordion--default {
+			.m-accordion__item {				
+				border: 1px solid get-color($skin, panel);
+				background-color: #fff; 
+
+				.m-accordion__item-head {
+					&.collapsed {
+						background-color: #fff;						 
+					}	
+
+					&,
+					&:hover {
+						background-color: get-color($skin, panel,'-');
+						@include transition( array-get($m--transition, general) );
+					}	
+					
+					.m-accordion__item-mode {
+						> i {
+							color: get-color($skin, regular, '-----');
+						}
+					}
+				}								 	
+
+				.m-accordion__item-body {
+					border-top: 1px solid get-color($skin, panel);
+				}			 
+			}	
+		}	
+
+		&.m-accordion--solid {
+			.m-accordion__item {	
+				.m-accordion__item-head {
+					&.collapsed {
+						background-color: get-color($skin, panel, '--');
+					}						
+
+					&,
+					&:hover {
+						background-color: get-color($skin, panel, '-');
+					}
+				}
+			}
+		}
+	}                    
+}
+
+//== Component States
+@mixin m-build-component--accordion-default-states() {
+	.m-accordion {		
+		@each $name, $color in $m--state-colors {		
+			.m-accordion__item--#{$name} {
+				border: 1px solid array-get($color, base) !important;
+
+				.m-accordion__item-head {
+					//== Open state
+					&,
+					&:hover {
+						background-color: darken(array-get($color, base), 5%) !important;
+					}
+					
+					.m-accordion__item-mode {
+						> i {
+							color: array-get($color, inverse) !important;		
+							 
+						}
+					}					
+
+					//== Default state					
+					&.collapsed {
+						background-color: array-get($color, base) !important;												 
+					
+						.m-accordion__item-mode {						
+							> i {								 			 
+								color: array-get($color, inverse) !important;							 
+							}    
+						}
+					}	
+
+					> span {
+						color: array-get($color, inverse) !important;						 
+					}			
+				}			
+			}			 
+		}
+	}
+}
+
+
+//== Build Component Base
+@include m-build-component--accordion-default-base();
+
+//== Build Component Skin
+@include m-build-component--accordion-default-skin();
+
+//== Build Component States
+@include m-build-component--accordion-default-states();	
+
+

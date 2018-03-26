@@ -1,0 +1,77 @@
+5PMCP124930529,PowerMeter,E-Trix,1-phase,124930529,0,100,true,WiFi,2017-11-13 03:34:41.595000,e-trix,APR,Etrix Prakru,device_images/powermeter.png,false,2,ON
+14HGW01,gateway,Dell,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Dell,APR,Dell,device_images/dellwyse3030.png,false,1,ON
+15FIT01,fitbit,fitbit,fitbit,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,fitbit,APR,Fitbit,device_images/fitbit.png,false,2,ON
+5Smappee001,PowerMeter,Smappee,3phasersolar,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,smappee,APR,Smappee Meter,device_images/powermeter.png,false,5,ON
+12Netatmo001,weathersensor,Netatmo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Netatmo,APR,Netatmo,device_images/netatmo.png,false,2,ON
+1PV221445K1200138,PV_Inverter,Growwatt,PV3000,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Growwatt,APR,Solar Inverter,device_images/solarinverter.png,false,5,ON
+8MS221445K1200132,multisensor,Fibaro,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,fibaro,APR,Fibaro Multi Sensor,device_images/fibaro.png,false,2,ON
+9REF0001,refrigerator,Mitsubishi,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,mitsubishi,APR,Mitsubishi Fridge,device_images/mitsu_refrigerator.png,true,3,ON
+16SCH001,EV,Schider,EV,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Schider,APR,Schneider EV Charger,device_images/schneider_ev_charger.gif,true,5,OFF
+19SMOKE001,smoke sensor,SmartThings,smoke indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,smartthings smoke,APR,Smoke Sensor,device_images/schneider_ev_charger.gif,false,3,ON
+18DOR08,Open-Close Sensor,Lifeconnect,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-17 10:57:06.933000,Lifeconnect,APR,Open Closed Sensor,device_images/st_multi_sensor.jpg,false,1,ON
+13ECH01,speaker,Amazon Echo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Alexa,APR,Amazon Echo,device_images/amazonecho.png,true,2,ON
+17WLS001,water leak sensor,SmartThings,water leak sensor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,smartthings water leak,APR,Water leak sensor,device_images/schneider_ev_charger.gif,true,3,ON
+1TH20000000000003,AC,Saijo3,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Saijo,APR,Saijo Bed Room,device_images/daikin_wall.png,true,1,ON
+11LG2001,tv,LG,full hd,aed2619bf77a,0,100,true,WiFi,2017-11-13 03:34:41.595000,lg,APR,LG TV Bedroom,device_images/lgtv.png,true,1,ON
+1DAIK1200138,AC,Daikin,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,dikin ac,APR,Daikin Kitchen AC,device_images/daikin_wall.png,true,3,ON
+07FAN221445K120138,fan,hatari,fan,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,hatari,APR,Hatari Fan,device_images/hatari_fan.png,true,2,OFF
+10SONOS01,speaker,sonos,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,sonos,APR,Sonos Speaker,device_images/sonos.png,true,2,ON
+2HUEH0017881cab46,lighting,Philips,2HUEH,aed2619bf77a,0,100,true,WiFi,2017-11-13 03:34:41.595000,Philips,APR,Philips Living Room,device_images/hue.png,true,1,ON
+2HUEH0017881cab4b,lighting,Philips,2HUEH,aed2619bf77a,0,100,true,WiFi,2017-11-13 03:34:41.595000,Philips,APR,Philips001,device_images/hue.png,true,1,ON
+1SAJ1000000000001,AC,Saijo1,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Saijo,APR,"Saijo Living ,TV",device_images/daikin_wall.png,true,2,ON
+1SAJ1000000000002,AC,Saijo2,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Saijo,APR,Saijo Living Room 2,device_images/daikin_wall.png,true,2,ON
+18STDOORSENSOR,door sensor,SmartThings,door sensor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,door sensor,APR,Door Sensor,device_images/st_multi_sensor.jpg,true,2,ON
+3WSP221445K1200326,plugload,WeMo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,WeMo,APR,WeMo Fan,device_images/wemoinsight.png,true,1,ON
+5PMCP008,PowerMeter,E-Trix,1-phase,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,e-trix,APR,Etrix Power Meter2,device_images/powermeter.png,false,5,ON
+11LG121445K1200137,TV,LG,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,LG,APR,LG TV Living Room,device_images/lgtv.png,true,2,OFF
+5PMCP009,PowerMeter,E-Trix,1-phase,0a4f437e63c2,0,100,true,WiFi,2017-11-13 03:34:41.595000,e-trix,APR,Etrix Power Meter,device_images/powermeter.png,false,5,ON
+3WSP221445K1200321,plugload,WeMo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,WeMo,APR,WeMo221,device_images/wemoinsight.png,true,1,ON
+2HUEK0017886c6769,lighting,Orvibo,2 gang switches,aed2619bf77b,0,100,true,WiFi,2017-11-13 03:34:41.595000,Philips,APR,PhillipHue,device_images/hue.png,true,1,ON
+5PMCP270121594,PowerMeter,E-Trix,1-phase,270121594,0,100,true,WiFi,2017-11-13 03:34:41.595000,e-trix,APR,Etrix Pakkru,device_images/powermeter.png,false,3,ON
+8MS221445K1200131,multisensor,Fibaro,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,fibaro,APR,Fibaro Multi Sensor,device_images/fibaro.png,false,2,ON
+1TH20000000000004,AC,Saijo3,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Saijo,APR,Saijo Bed Room,device_images/daikin_wall.png,true,1,OFF
+1TH20000000000006,AC,Saijo2,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Saijo,APR,Saijo Living Room 2,device_images/daikin_wall.png,true,2,ON
+12Netatmo002,weathersensor,Netatmo,indoor,0a4f437e63c2,0,100,true,WiFi,2017-11-13 03:34:41.595000,Netatmo,APR,Netatmo,device_images/netatmo.png,false,2,ON
+1PV221445K1200131,PV_Inverter,Growwatt,PV3000,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Growwatt,APR,Solar Inverter,device_images/solarinverter.png,false,2,ON
+9REF0002,refrigerator,Mitsubishi,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,mitsubishi,APR,Mitsubishi Fridge,device_images/mitsu_refrigerator.png,true,1,ON
+16SCH002,EV,Schider,EV,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Schider,APR,Schneider EV Charger,device_images/schneider_ev_charger.gif,true,2,OFF
+19SMOKE002,smoke sensor,SmartThings,smoke indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,smartthings smoke,APR,Smoke Sensor,device_images/schneider_ev_charger.gif,false,1,ON
+13ECH03,speaker,Amazon Echo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Alexa,APR,Amazon Echo,device_images/amazonecho.png,false,2,ON
+6SAM0001,SmartCamera,Samsung,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Samsung Smart Cam,APR,Samsung Smart Cam,device_images/samsung_smart_cam.png,false,2,ON
+17WLS002,water leak sensor,SmartThings,water leak sensor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,smartthings water leak,APR,Water leak sensor,device_images/smartthings-water-leak-sensor.png,false,3,ON
+8MS221445K1200135,multisensor,Aeotec,indoor,0a4f437e63c2,0,100,true,WiFi,2017-11-13 03:34:41.595000,Aeotec,APR,Multipurpose Sensor,device_images/fibaro.png,false,2,ON
+12Netatmo003,weathersensor,Netatmo,indoor,0a4f437e63c2,0,100,true,WiFi,2017-11-13 03:34:41.595000,Netatmo,APR,Netatmo,device_images/netatmo.png,false,2,ON
+03WSP221445K1200327,plugload,WeMo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,WeMo,APR,WeMo TV,device_images/wemoinsight.png,true,1,ON
+11LG121445K1200132,TV,LG,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,LG,APR,LG TV Living Room,device_images/lgtv.png,true,2,ON
+11LG2002,tv,LG,full hd,aed2619bf77a,0,100,true,WiFi,2017-11-13 03:34:41.595000,lg,APR,LG TV Bedroom,device_images/lgtv.png,true,1,ON
+1DAIK1200132,AC,Daikin,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,dikin ac,APR,Daikin Kitchen AC,device_images/daikin_wall.png,true,2,ON
+2HUEK1445K1200132,lighting,phillip,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Phillip,APR,Kitchen Room,device_images/hue.png,true,1,ON
+2HUEL1445K1200132,lighting,phillip,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Phillip,APR,Living Room,device_images/hue.png,true,2,OFF
+2HUEH0017881cab42,lighting,Philips,2HUEH,aed2619bf77a,0,100,true,WiFi,2017-11-13 03:34:41.595000,Philips,APR,Philips001,device_images/hue.png,true,1,ON
+12Netatmo006,weathersensor,Netatmo,indoor,0a4f437e63c2,0,100,true,WiFi,2017-11-13 03:34:41.595000,Netatmo,APR,Netatmo Weather,device_images/netatmo.png,false,1,ON
+1PV221445K1200100,PV_Inverter,Prime,PV5000,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Prime,APR,Solar Inverter,device_images/solarinverter.png,false,3,ON
+1DAIK1200136,AC,Daikin,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,dikin ac,APR,Daikin Living AC,device_images/daikin_wall.png,true,1,OFF
+8MS221445K1200136,multisensor,Fibaro,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,fibaro,APR,Fibaro Multi Sensor,device_images/fibaro.png,false,1,ON
+5PMCP006,PowerMeter,E-Trix,1-phase,0a4f437e63c2,0,100,true,WiFi,2017-11-13 03:34:41.595000,e-trix,APR,Etrix Power Meter,device_images/powermeter.png,false,2,ON
+13ECH07,speaker,Amazon Echo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Alexa,APR,Amazon Echo,device_images/amazonecho.png,false,1,ON
+13ECH06,speaker,Amazon Echo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Alexa,APR,Amazon Echo Show,device_images/amazonecho.png,true,1,ON
+11LG121445K120016,TV,TCL,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,TCL,APR,TCL TV Living Room 1,device_images/tcl_tv.jpeg,true,1,ON
+11LG121445K120017,TV,TCL,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,TCL,APR,TCL TV Living Room 2,device_images/tcl_tv.jpeg,true,1,ON
+19SMOKE006,smoke sensor,SmartThings,smoke indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,smartthings smoke,APR,Smoke Sensor,device_images/first_alert_smoke.jpg,false,1,ON
+18DOR07,Open-Close Sensor,SmartThings,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-17 10:57:06.933000,SmartThings,APR,ST Multi Sensor,device_images/st_multi_sensor.jpg,false,1,ON
+6SAM0006,SmartCamera,Samsung,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Starcam,APR,Front Door Cam,device_images/Vstarcam-C7823WIP.jpg,false,2,ON
+03MRB221445K1200328,Somfy,Somfy,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Somfy,APR,Somfy Curtain,device_images/somfy.jpg,true,1,ON
+16SCH006,EV,Schider,EV,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Schider,APR,Schneider EV Charger,device_images/schneider_ev_charger.gif,true,2,OFF
+18DOR06,door lock,Yell,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-17 10:57:06.933000,Yell,APR,Yell Door Lock,device_images/yell_door_lock.jpg,true,2,ON
+5Smappee006,PowerMeter,Smappee,3phasersolar,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,smappee,APR,Smappee Meter,device_images/smappee_meter.jpg,false,1,ON
+15FIT06,fitbit,fitbit,fitbit,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,fitbit,APR,Fitbit,device_images/fitbit.png,false,1,ON
+1DAIK1200100,AC,Mitsubishi,AC,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,mitsubishi ac,APR,Mitsubishi AC,device_images/daikin_wall.png,true,2,ON
+1PV221445K1200136,PV_Inverter,Growwatt,PV3000,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Growwatt,APR,Solar Inverter,device_images/solarinverter.png,false,2,ON
+10SONOS06,speaker,sonos,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,sonos,APR,Sonos Speaker,device_images/sonos.png,true,1,ON
+9REF0006,refrigerator,Mitsubishi,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,mitsubishi,APR,17WLS,device_images/st_multi_sensor.jpg,true,1,ON
+6SAM0007,SmartCamera,Samsung,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Starcam,APR,Living Room Cam,device_images/Vstarcam-C7838WIP.jpg,false,1,ON
+03WSP060BFEA2,plugload,TPlink,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,TPlink,APR,TPlink-plug,device_images/wemoinsight.png,true,1,ON
+03WSP8006F822,plugload,TPlink,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,TPlink,APR,TPlink-plug,device_images/wemoinsight.png,true,1,ON
+2HUEK1445K1200138,lighting,phillip,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Phillip,APR,Kitchen Room,device_images/hue.png,true,3,OFF
+2HUEL1445K1200138,lighting,phillip,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,Phillip,APR,Living Room,device_images/hue.png,true,2,ON
+03WIS231613K1200162,plugload,WeMo,indoor,0a4f437e63c1,0,100,true,WiFi,2017-11-13 03:34:41.595000,WeMo,APR,WeMo231,device_images/wemoinsight.png,true,1,OFF
